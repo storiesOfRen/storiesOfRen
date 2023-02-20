@@ -1,18 +1,28 @@
-![Dennis Nedry](https://media.giphy.com/media/cjJYjxRLgOmEQJ9RVt/giphy.gif)
+## HI, I'M REN ESTEP.
 
+![my pronouns are she/they](https://img.shields.io/badge/pronouns-she%2Fthey-%23C8FAF3)
+![my job title is Sr Software Engineer](https://img.shields.io/badge/job%20title-SR%20Software%20Engineer-%230F695C)
 
-# Hi! I'm Ren...
+<img src="https://media.giphy.com/media/cjJYjxRLgOmEQJ9RVt/giphy.gif" alt="" width=400 align="right" />
+
 
 I am a software engineer that hails from Dayton, OH. I have recieved a masters and bacherlors in Fine Arts focusing on photography and 4D media. I'm enthusiastic about learning and creative problem-solving. In my free time I enjoy running, drawing, creating, and watching Asian dramas and anime.
 
-I collaborate with [Milu Franz](https://github.com/milufranz08) on [Imagine Dat](https://github.com/imagine-dat) *new name coming soon*
+I collaborate with [Milu Franz](https://github.com/milufranz08) on [Imagine Dat](https://github.com/imagine-dat) *(new name coming soon)*
+
+### SKILLS
+- Accessibility
+- Javascript
+- Typescript
+- React
+- NodeJS
+- CSS
 
 
-## Stay in touch
-<div style="display:flex; flex-direction:column; align-items:center;">
-<img src="https://user-images.githubusercontent.com/22155535/220149794-83816019-231b-4e37-a7ac-3d39926dea01.png" width=30 aria-hidden='true'/>
-<a href="https://dev.to/stories_of_ren" >  dev.to/stories_of_ren</a>
-</div>
+### STAY IN TOUCH
 
+[Twitter][-1] | [dev.to][0] | [LinkedIn][2] 
 
-
+[-1]: https://twitter.com/stories_of_ren
+[0]: https://dev.to/stories_of_ren
+[2]: https://www.linkedin.com/in/renestep/
